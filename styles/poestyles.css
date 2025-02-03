@@ -52,4 +52,5 @@ p {
 a {
     /* Blue text was too hard on the eye so I decided to change it to aqua */
     color: aqua;
+    background: #000000b0;
 }
