@@ -41,6 +41,10 @@ h2 {
     background-color: #00000025;
 }
 
+caption {
+    background-color: #000000b0;
+}
+
 p {
     font-family: 'Consolas';
     font-weight: normal;
